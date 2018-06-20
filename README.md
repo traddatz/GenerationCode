@@ -1,4 +1,7 @@
 # GenerationCode
+
+print("Hello Welcome to Hangman")
+
 Code for python
 HANGMAN = (
 """
